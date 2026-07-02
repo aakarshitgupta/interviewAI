@@ -12,7 +12,7 @@ import Pricing from './pages/Pricing.jsx'
 import InterviewReport from './pages/InterviewReport.jsx'
 
 
-export const serverUrl = 'http://localhost:5050'
+export const serverUrl = 'https://interviewx-0edp.onrender.com'
 
 function App() {
   const dispatch = useDispatch()
