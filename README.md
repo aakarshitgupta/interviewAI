@@ -127,12 +127,6 @@ The project is deployed on Render:
 
 Make sure all required environment variables are added in the Render dashboard for both services.
 
-## Important Notes
-
-- `node_modules/` should stay in `.gitignore`.
-- Keep `.env` files ignored and use Render environment variables in production.
-- Since authentication uses cookies, browser third-party cookie settings may affect login sessions when frontend and backend are on different domains.
-
 ## Author
 
 Akarshit Gupta
